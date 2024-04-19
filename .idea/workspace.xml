@@ -1,23 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="68ab5af8-827a-4b58-bbf0-6bbc92d6cea7" name="Changes" comment="" />
+    <list default="true" id="68ab5af8-827a-4b58-bbf0-6bbc92d6cea7" name="Changes" comment="Primeiro Commit to Github of program2">
+      <change afterPath="$PROJECT_DIR$/.idea/cc-intellij-javadocs-0.8.0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dezesseis/InPutStream_Entrada_IO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dezesseis/OutPutStream_Saida_IO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dezessete/ThreadExecucao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doze/JavaDocumentacao_e_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Onze/CriarUmaExcecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Onze/TratamentoExcecoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quatorze/Funcional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quatorze/Funcional_Lambda_javaUtil_Metodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quatorze/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quatorze/LambdaExpressao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quatorze/LambdaExpressao1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quatorze/LambdaExpressao2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quatorze/LambdaExpressao3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quatorze/OperacaoAritimetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quinze/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quinze/JogadorFutebol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quinze/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quinze/PessoaEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quinze/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quinze/SetColecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Treze/TestesUnitarios_JUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ChatGPTCopilotChannelManager.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ChatGPTCopilotChannelManager.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Program2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2fEzwpL5M91ju3Qems5KpjhaaPe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "testing.instrumented.configuration"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Quinze" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Program2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -27,6 +102,40 @@
       <option name="presentableId" value="Default" />
       <updated>1713381267793</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro Commit to Github of program2">
+      <created>1713381353004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713381353004</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primeiro Commit to Github of program2">
+      <created>1713381389705</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713381389705</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro Commit to Github of program2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit to Github of program2" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
